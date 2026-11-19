@@ -10,7 +10,7 @@
     "description": "A tiny DLL for World of Warcraft 1.12.1 that makes auction-house searches fast. Vanilla forces a fixed 5-second wait between AH searches; this lets the next one fire the moment the server answers — so paging through the auction house runs at round-trip speed (a fraction of a second on a healthy connection).",
     "homepage": "https://github.com/brues-code/AuctionQueryThrottle",
     "download_url": "https://github.com/brues-code/AuctionQueryThrottle/archive/refs/heads/main.zip",
-    "url": "https://github.com/brues-code/AuctionQueryThrottle",
+    "url": "https://github.com/brues-code/AuctionQueryThrottle"
     },
   {
     "name": "Vanillafixes",
@@ -23,6 +23,6 @@
     "description": "A client modification for World of Warcraft 1.6.1-1.12.1 to eliminate stutter and animation lag.",
     "homepage": "https://github.com/hannesmann/vanillafixes",
     "download_url": "https://github.com/hannesmann/vanillafixes/archive/refs/heads/main.zip",
-    "url": "https://github.com/hannesmann/vanillafixes",
+    "url": "https://github.com/hannesmann/vanillafixes"
     }
 ]
