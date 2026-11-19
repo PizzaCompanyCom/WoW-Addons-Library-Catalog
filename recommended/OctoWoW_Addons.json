@@ -1,0 +1,30 @@
+[
+  {
+    "name": "pfQuest_Woltk",
+    "version": "7.0.1",
+    "author": "shagu",
+    "category": "Quests",
+    "server": "OctoWoW",
+    "source": "github",
+    "repo": "shagu/pfQuest",
+    "description": "This is an addon for World of Warcraft Vanilla (1.12), The Burning Crusade (2.4.3), Wrath of Lich King (3.3.5). It helps players to find several ingame objects and quests. The addon reads questobjectives, parses them and uses its internal database to plot the found matches on the world- and minimap.",
+    "homepage": "https://github.com/shagu/pfQuest",
+    "download_url": "https://github.com/shagu/pfQuest/archive/refs/heads/master.zip",
+    "url": "https://github.com/shagu/pfQuest",
+    "folder": "pfQuest-wotlk"
+  },
+  {
+    "name": "LazyPig",
+    "version": "5.0",
+    "author": "CosminPOP",
+    "category": "Interface",
+    "server": "OctoWoW",
+    "source": "github",
+    "repo": "CosminPOP/_LazyPig",
+    "description": "Updated for Turtle WoW Expansion mounts and Riding Turtle - autodismount, other automatic actions.",
+    "homepage": "https://github.com/CosminPOP/_LazyPig",
+    "download_url": "https://github.com/CosminPOP/_LazyPig/archive/refs/heads/master.zip",
+    "url": "https://github.com/CosminPOP/_LazyPig",
+    "folder": "pfQuest-epoch"
+  }
+]

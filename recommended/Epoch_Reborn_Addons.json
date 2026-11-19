@@ -1,0 +1,30 @@
+[
+  {
+    "name": "pfQuest_Woltk",
+    "version": "7.0.1",
+    "author": "shagu",
+    "category": "Quests",
+    "server": "WoW 3.3.5a",
+    "source": "github",
+    "repo": "shagu/pfQuest",
+    "description": "This is an addon for World of Warcraft Vanilla (1.12), The Burning Crusade (2.4.3), Wrath of Lich King (3.3.5). It helps players to find several ingame objects and quests. The addon reads questobjectives, parses them and uses its internal database to plot the found matches on the world- and minimap.",
+    "homepage": "https://github.com/shagu/pfQuest",
+    "download_url": "https://github.com/shagu/pfQuest/archive/refs/heads/master.zip",
+    "url": "https://github.com/shagu/pfQuest",
+    "folder": "pfQuest-wotlk"
+  },
+  {
+    "name": "pfQuest_Epoch",
+    "version": "3.4.0",
+    "author": "Bennylavaa",
+    "category": "Quests",
+    "server": "Epoch WoW 3.3.5a",
+    "source": "github",
+    "repo": "Bennylavaa/pfQuest-epoch",
+    "description": "pfQuest with the addition of the Epochs quest server",
+    "homepage": "https://github.com/Bennylavaa/pfQuest-epoch",
+    "download_url": "https://github.com/Bennylavaa/pfQuest-epoch/archive/refs/heads/main.zip",
+    "url": "https://github.com/Bennylavaa/pfQuest-epoch",
+    "folder": "pfQuest-epoch"
+  }
+]

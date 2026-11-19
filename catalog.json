@@ -1,0 +1,10 @@
+{
+  "recommended": {
+    "epoch": "recommended/Epoch_Reborn_Addons.json",
+    "octowow": "recommended/OctoWoW_Addons.json"
+  },
+  "mods": {
+    "epoch": "mods/Epoch_Reborn_Mods.json",
+    "octowow": "mods/OctoWoW_Mods.json"
+  }
+}
